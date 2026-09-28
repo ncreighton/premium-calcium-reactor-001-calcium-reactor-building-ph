@@ -1,0 +1,2 @@
+# premium-calcium-reactor-001-calcium-reactor-building-ph
+Tired of scattered notes, forgotten pH readings, and endless manual tracking that turns calcium reactor maintenance into a guessing game? The Calcium Reactor Building &amp; pH Craft Hub centralizes every build spec, media refill schedule, and daily calibration in one Notion workspace – so you never miss a test again.  This template transforms the chaos
